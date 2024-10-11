@@ -1,6 +1,6 @@
 # so_long-42
 
-The **so_long** project is a simple 2D game designed to make us use textures, sprites and some basic gameplay elements. The goal is to create an interactive game where the player navigates through a maze-like environment and collects items. In order to do that, I choose to use MinilibX as graphics library.
+The `so_long` project is a simple 2D game designed to make us use textures, sprites and some basic gameplay elements. The goal is to create an interactive game where the player navigates through a maze-like environment and collects items. In order to do that, I choose to use MinilibX as graphics library.
 
 ## Game
 
