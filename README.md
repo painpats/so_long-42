@@ -2,6 +2,8 @@
 
 The `so_long` project is a simple 2D game designed to make us use textures, sprites and some basic gameplay elements. The goal is to create an interactive game where the player navigates through a maze-like environment and collects items. In order to do that, I choose to use MinilibX as graphics library.
 
+Score: **100%**
+
 ## Game
 
 I created a simple game named `The Lost Coin`. The player (P) is a coin, your goal is to collects all the red gems (C). When you'll reach that goal, you will be able to exit the game by taking the blue exit door (E). Walls are represented by rocks (1) and can't be crossed, the coin can only roll in the grass (0).
